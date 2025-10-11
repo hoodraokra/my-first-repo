@@ -1,0 +1,47 @@
+{
+    "rows": 2,
+    "cols": 2,
+    "tiles": [
+      {
+        "row": 0,
+        "col": 0,
+        "water": 5,
+        "temperature": 20,
+        "nutrients": 10,
+        "creatures": [
+          {"class":"Moss", "name":"MossA", "color":"Green", "weight":0.1},
+          {"class":"Plant", "species":"FloweringPlant", "name":"Sunflower", "color":"Yellow", "weight":2.5}
+        ]
+      },
+      {
+        "row": 0,
+        "col": 1,
+        "water": 4,
+        "temperature": 22,
+        "nutrients": 12,
+        "creatures": [
+          {"class":"Bird", "name":"Sparrow", "color":"Brown", "weight":0.2}
+        ]
+      },
+      {
+        "row": 1,
+        "col": 0,
+        "water": 6,
+        "temperature": 18,
+        "nutrients": 8,
+        "creatures": [
+          {"class":"Mammal", "name":"Rabbit", "color":"White", "weight":2.5}
+        ]
+      },
+      {
+        "row": 1,
+        "col": 1,
+        "water": 5,
+        "temperature": 19,
+        "nutrients": 9,
+        "creatures": [
+          {"class":"Fish", "name":"Goldie", "color":"Gold", "weight":0.3}
+        ]
+      }
+    ]
+  }
