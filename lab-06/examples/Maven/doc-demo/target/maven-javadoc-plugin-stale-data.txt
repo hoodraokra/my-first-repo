@@ -1,0 +1,51 @@
+-Xdoclint:none
+@options
+@packages
+-classpath
+'/Users/aungkyawpaing/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.2/junit-jupiter-5.10.2.jar:/Users/aungkyawpaing/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar:/Users/aungkyawpaing/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/aungkyawpaing/.m2/repository/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar:/Users/aungkyawpaing/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/aungkyawpaing/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.2/junit-jupiter-params-5.10.2.jar:/Users/aungkyawpaing/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar:/Users/aungkyawpaing/.m2/repository/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/src/main/java:/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Documentation Demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Documentation Demo 1.0-SNAPSHOT API'
+com.example.docs
+/Users/aungkyawpaing/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.2/junit-jupiter-5.10.2.jar = 1707035724000
+/Users/aungkyawpaing/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar = 1707035721000
+/Users/aungkyawpaing/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar = 1688646332000
+/Users/aungkyawpaing/.m2/repository/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar = 1707035719000
+/Users/aungkyawpaing/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar = 1624798415000
+/Users/aungkyawpaing/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.10.2/junit-jupiter-params-5.10.2.jar = 1707035725000
+/Users/aungkyawpaing/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar = 1707035743000
+/Users/aungkyawpaing/.m2/repository/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar = 1707035719000
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/src/main/java = 1762654980000
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/generated-sources/annotations = 1762718513000
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/tag-search-index.js = 1762718545100
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/overview-tree.html = 1762718545095
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/module-search-index.js = 1762718545099
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/index.html = 1762718545103
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/package-search-index.js = 1762718545099
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/index-all.html = 1762718545102
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/allpackages-index.html = 1762718545099
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/member-search-index.js = 1762718545100
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/help-doc.html = 1762718545104
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/element-list = 1762718545085
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/search.html = 1762718545103
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/allclasses-index.html = 1762718545098
+/Users/aungkyawpaing/Documents/my-first-repo/lab-06/examples/Maven/doc-demo/target/site/apidocs/type-search-index.js = 1762718545099
