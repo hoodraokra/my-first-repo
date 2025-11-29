@@ -1,0 +1,19 @@
+<script>start("/Users/aungkyawpaing/Documents/my-first-repo/lab-08/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("sketches","sketches",1,864,"864 B",1764395873,"11/29/25, 12:57:53 AM");</script>
+<script>addRow("BifurcationDiagram.class","BifurcationDiagram.class",0,6905,"6.7 kB",1764396353,"11/29/25, 1:05:53 AM");</script>
+<script>addRow("BifurcationDiagram.java","BifurcationDiagram.java",0,12638,"12.3 kB",1742755896,"3/23/25, 2:51:36 PM");</script>
+<script>addRow("BifurcationDiagram$BifurcationPanel.class","BifurcationDiagram$BifurcationPanel.class",0,3887,"3.8 kB",1764396353,"11/29/25, 1:05:53 AM");</script>
+<script>addRow("BifurcationDiagram$BifurcationPanel$1.class","BifurcationDiagram$BifurcationPanel$1.class",0,951,"951 B",1764396353,"11/29/25, 1:05:53 AM");</script>
+<script>addRow("CarrotSupply.class","CarrotSupply.class",0,391,"391 B",1764396492,"11/29/25, 1:08:12 AM");</script>
+<script>addRow("Ecosystem.class","Ecosystem.class",0,1602,"1.6 kB",1764396492,"11/29/25, 1:08:12 AM");</script>
+<script>addRow("lab-08.pdf","lab-08.pdf",0,57930,"56.6 kB",1763298932,"11/16/25, 8:15:32 AM");</script>
+<script>addRow("overview.pdf","overview.pdf",0,140327,"137 kB",1742769882,"3/23/25, 6:44:42 PM");</script>
+<script>addRow("Rabbit.class","Rabbit.class",0,1002,"1002 B",1764396492,"11/29/25, 1:08:12 AM");</script>
+<script>addRow("RabbitAgentSimulationEmergent.class","RabbitAgentSimulationEmergent.class",0,1820,"1.8 kB",1764396492,"11/29/25, 1:08:12 AM");</script>
+<script>addRow("RabbitAgentSimulationEmergent.java","RabbitAgentSimulationEmergent.java",0,6591,"6.4 kB",1763295970,"11/16/25, 7:26:10 AM");</script>
+<script>addRow("RabbitPopulationGraph.class","RabbitPopulationGraph.class",0,3458,"3.4 kB",1764396095,"11/29/25, 1:01:35 AM");</script>
+<script>addRow("RabbitPopulationGraph.java","RabbitPopulationGraph.java",0,5055,"4.9 kB",1764396019,"11/29/25, 1:00:19 AM");</script>
+<script>addRow("RabbitPopulationGraph$1.class","RabbitPopulationGraph$1.class",0,1027,"1.0 kB",1764396095,"11/29/25, 1:01:35 AM");</script>
+<script>addRow("RabbitPopulationGraph$PopulationPanel.class","RabbitPopulationGraph$PopulationPanel.class",0,2085,"2.0 kB",1764396095,"11/29/25, 1:01:35 AM");</script>
+<script>addRow("simulation_output.csv","simulation_output.csv",0,358,"358 B",1764396497,"11/29/25, 1:08:17 AM");</script>
